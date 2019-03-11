@@ -1,0 +1,3 @@
+virtual std::string Name() const = 0;
+1.=0说明其是纯虚函数
+2.const表明不能修改其数据成员
